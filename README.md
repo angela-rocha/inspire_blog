@@ -8,7 +8,7 @@ Blog Inspirador para Novos Programadores em HTML, CSS e JavaScript
 Um blog simples, responsivo e motivador para **novos programadores**, feito com **HTML, CSS e JavaScript puro**.  
 O objetivo é inspirar iniciantes a continuar estudando programação, com posts, frases motivacionais e um espaço para contato. 
 
-## [Visualizar Blog]
+## [Visualizar Blog](https://angela-silva.github.io/inspire_blog/)
 
 ---
 
