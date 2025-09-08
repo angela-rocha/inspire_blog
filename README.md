@@ -19,15 +19,7 @@ O objetivo é inspirar iniciantes a continuar estudando programação, com posts
 - 📩 **Formulário de contato** simples.  
 - 🎨 Design moderno em **tons de azul**, que remetem à tecnologia.  
 - ⚡ 100% em HTML, CSS e JavaScript puro (sem frameworks).  
-
 ---
-
-## 📂 Estrutura do Projeto
-
-dev-inspire-blog/
-│── index.html # Estrutura principal
-│── style.css # Estilos e layout
-│── script.js # Funções (posts e frases motivacionais)
 
 ## 🛠️ Tecnologias Utilizadas
 
