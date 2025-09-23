@@ -1,4 +1,4 @@
-# inspire_blog
+# Inspire blog
 Blog Inspirador para Novos Programadores em HTML, CSS e JavaScript
 
 <img width="1024" height="720" alt="Dev Inspire Blog - Google Chrome 07_09_2025 21_26_40" src="https://github.com/user-attachments/assets/331e1935-7738-4e2f-910e-f97d1f53a6bf" />
